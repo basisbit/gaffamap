@@ -157,7 +157,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"spaces\/haxko.json#exit"
+                 "value":"spaces\/haxko.json#entry"
                 }, 
                 {
                  "name":"startLayer",
@@ -203,7 +203,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"spaces\/osna.json#exit"
+                 "value":"spaces\/osna.json#entry"
                 }, 
                 {
                  "name":"startLayer",
